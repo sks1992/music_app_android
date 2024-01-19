@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Spotify Clone</string>
     <string name="music_player">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">PlayList</string>
+    <string name="total_song">Total Song</string>
+    <string name="world_of_music">World Of Music</string>
+    <string name="back_image_icon">Back Image Icon</string>
+    <string name="favourite_image_icon">Favourite Image Icon</string>
+    <string name="song_name">Song Name</string>
+    <string name="next_button">Next Button</string>
+    <string name="previous_button">Previous Button</string>
+    <string name="pause_button">Pause Button</string>
 </resources>
