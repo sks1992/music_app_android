@@ -12,4 +12,12 @@
     <string name="next_button">Next Button</string>
     <string name="previous_button">Previous Button</string>
     <string name="pause_button">Pause Button</string>
+    <string name="start_time">00.00</string>
+    <string name="end_time">Loading...</string>
+    <string name="repeat_button">Repeat Button</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="timer">Timer</string>
+    <string name="share">Share</string>
+    <string name="play_list_button">Play List</string>
+    <string name="add_icon">Add Icon</string>
 </resources>
